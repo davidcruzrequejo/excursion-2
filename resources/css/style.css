@@ -4,20 +4,29 @@ body {
     text-align: center;
 }
 
+/* HEADINGS */
+
 .header--main {
     color: white;
     font-weight: normal;
     font-size: 50px;
 }
 
-.link--cta {
-    color:aquamarine;
-    font-size: 16px;
-}
-
-h2 {
+.header--secondary {
     color: white;
     font-weight: 300;
     font-size: 42px;
+}
+
+.header--sub-header {
+    color: gray;
+    font-size: 21px;
+}
+
+/* LINKS */
+
+.link--cta {
+    color:aquamarine;
+    font-size: 16px;
 }
 
