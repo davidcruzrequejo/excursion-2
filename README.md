@@ -1,3 +1,3 @@
 # excursion-2
 
-##Proyect for Codecademy Learn Git and GitHub.
+Proyect for Codecademy Learn Git and GitHub.
